@@ -11,7 +11,7 @@ This repository contains all the code and resources related to my master's thesi
 ## Interactive Visualizations
 
 - [View the interactive COF plot](./Reports/features_vs_cof.html): Interactive visualization of selected features against the Coefficient of Friction (COF).
-- - [View the interactive SWR plot](./Reports/features_vs_cof.html): Interactive visualization of selected features against the Specific Wear Rate (SWR).
+- [View the interactive SWR plot](./Reports/features_vs_swr.html): Interactive visualization of selected features against the Specific Wear Rate (SWR).
 - [View the profiling report from EDA before preprocessing](./Reports/profiling_data.html): Detailed exploratory data analysis report before any preprocessing.
 - [View the profiling report after preprocessing](./Reports/profiling_data_cleaned.html): Detailed exploratory data analysis report after data cleaning and preprocessing.
 
