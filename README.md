@@ -28,7 +28,6 @@ To run the project locally, follow these steps:
 3. Create and activate a virtual environment:
    ```bash
    python -m venv env
-   ```bash
    source env/bin/activate  # On Windows, use `env\Scripts\activate`
   
 5. Install the required dependencies:
