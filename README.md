@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/COF-Prediction-ML.git](https://github.com/yourusername/COF-Prediction-ML.git)
+   git clone https://github.com/nicolaiao/COF-Prediction-ML.git
 2. Navigate to the project directory:
    ```bash
    cd COF-Prediction-ML
