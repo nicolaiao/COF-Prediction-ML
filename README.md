@@ -20,8 +20,9 @@ This repository contains all the code and resources related to my master's thesi
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+   '''bash
    git clone https://github.com/yourusername/COF-Prediction-ML.git
+   '''
 2. Navigate to the project directory:
    '''bash
    cd COF-Prediction-ML
@@ -29,13 +30,15 @@ To run the project locally, follow these steps:
    '''bash
    python -m venv env
    source env/bin/activate  # On Windows, use `env\Scripts\activate`
-4. Install the required dependencies:
+   '''
+5. Install the required dependencies:
    '''bash
    pip install -r requirements.txt
-5. Run the Jupyter notebooks:
+   '''
+7. Run the Jupyter notebooks:
    '''bash
    jupyter notebook
-
+   '''
 ## Models Used
 The following machine learning models were explored in this study:
 - Linear Regression
